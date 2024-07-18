@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FjvAPgtIZdw=",
+  "success": true,
+  "projectFilePath": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\OrderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inspiron 3910\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Inspiron 3910\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\Inspiron 3910\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
