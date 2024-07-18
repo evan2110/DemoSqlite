@@ -19,7 +19,21 @@ namespace OrderApp.Controllers
         {
             using var connection = new SQLiteConnection("Data Source= DemoDB.db");
             var sql = "SELECT * FROM ORDERS";
-            var results = connection.QueryAsync<Orders>(sql);
+            var orders = connection.Query<Orders>(sql);
+            ViewBag.orders = orders;
+            return View();
+        }
+
+        public IActionResult AddOrder()
+        {
+            
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateOrder(Orders orders)
+        {
+
             return View();
         }
 

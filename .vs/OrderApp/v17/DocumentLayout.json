@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DucDN\\Web\\DemoSqlite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|d:\\ducdn\\web\\demosqlite\\orderapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|d:\\ducdn\\web\\demosqlite\\orderapp\\views\\home\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\views\\home\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|d:\\ducdn\\web\\demosqlite\\orderapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|d:\\ducdn\\web\\demosqlite\\orderapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|d:\\ducdn\\web\\demosqlite\\orderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8B9FD5E-1F0C-4B2C-9696-B78B0B3AB620}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "OrderApp\\Views\\Home\\AddOrder.cshtml",
+              "ToolTip": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\AddOrder.cshtml",
+              "RelativeToolTip": "OrderApp\\Views\\Home\\AddOrder.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAEEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T08:08:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OrderApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OrderApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T08:07:05.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OrderApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T07:47:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrderApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OrderApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T07:45:32.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DucDN\\Web\\DemoSqlite\\OrderApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrderApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:44:55.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
